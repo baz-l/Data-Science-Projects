@@ -68,6 +68,18 @@ Make sure to install the required dependencies before running the code. See the 
 
 Feel free to adjust the file names and descriptions to match your specific project's structure and functionality. Let me know if you need further assistance!
 
+## Acknowledgments
+
+We would like to express our gratitude to the following individuals and organizations for their contributions and support:
+
+- **Datahut**: We are thankful to Datahut for providing us with the opportunity to work on this project during our internship. Their guidance and mentorship have been invaluable in the development of this software.
+- **Y Combinator**: We are grateful to Y Combinator for providing valuable insights into the startup ecosystem and for inspiring this project.
+- **Open Source Community**: We extend our thanks to the open-source community for creating and maintaining the tools and libraries used in this project, including Selenium and ChromeDriver.
+- **Contributors**: A special thank you to Sir Tony Paul who have helped improve this project through feature suggestions, and valuable insights.
+
+Your support has been instrumental in making this project a success.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
