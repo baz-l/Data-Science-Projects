@@ -87,11 +87,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributors
 
 - Basil Eldhose(https://github.com/baz-l)
-
-## Questions or Issues?
-
-If you have any questions or encounter any issues with the script, feel free to [open an issue](https://github.com/baz-l/ycombinator-web-scraper/issues) on GitHub.
-
-
-
-This README should provide a clear understanding of what the project does, how to use it, and how to contribute or report issues. Let me know if you need further clarification or additional details!
