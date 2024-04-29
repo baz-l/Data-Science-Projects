@@ -17,6 +17,7 @@ This project is a Python script that scrapes company links from the Y Combinator
 3. **Running the Script**: Simply run the `scrape_ycombinator.py` script. It will launch a Chrome browser, go to the Y Combinator companies page, select checkboxes for each batch, extract company links from the displayed columns, and save the links to a text file named `company_links.txt`.
 
 4. **Customization**: Feel free to customize the script according to your needs. You can modify it to scrape different websites or extract different types of data.
+5. Once the extraction is complete, you will find the extracted data saved in JSON format in the file data.json.
 
 ## Requirements
 
