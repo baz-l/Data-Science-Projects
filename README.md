@@ -42,12 +42,7 @@ This project is a Python script that scrapes company links from the Y Combinator
 
 4. Run the script:
 
-  Certainly! Here's how you can structure the run code section in your README file for executing the two Python files `All_link.py` and `Web-scrapping.py`:
-
-```markdown
-## Running the Code
-
-Python version: 3.7 or higher
+  
 
 ### Extracting Company Links
 
