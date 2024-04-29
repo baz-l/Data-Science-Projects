@@ -39,9 +39,37 @@ This project is a Python script that scrapes company links from the Y Combinator
 
 4. Run the script:
 
-   ```
-   python scrape_ycombinator.py
-   ```
+  Certainly! Here's how you can structure the run code section in your README file for executing the two Python files `All_link.py` and `Web-scrapping.py`:
+
+```markdown
+## Running the Code
+
+Python version: 3.7 or higher
+
+### Extracting Company Links
+
+To extract company links from Y Combinator's website, run the following command:
+
+```bash
+python All_link.py
+```
+
+This script will extract the links and save them to a text file named `company_links.txt`.
+
+### Web Scraping
+
+To perform web scraping on the extracted company links, run the following command:
+
+```bash
+python Web-scrapping.py
+```
+
+This script will scrape data from each company's website and save the information in JSON format in the file `data.json`.
+
+Make sure to install the required dependencies before running the code. See the Installation and Usage section for more details.
+```
+
+Feel free to adjust the file names and descriptions to match your specific project's structure and functionality. Let me know if you need further assistance!
 
 ## License
 
