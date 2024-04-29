@@ -29,7 +29,7 @@ This project is a Python script that scrapes company links from the Y Combinator
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your_username/ycombinator-web-scraper.git
+   git clone https://github.com/baz-l/ycombinator-web-scraper.git
    ```
 
 2. Install the required Python libraries:
@@ -52,11 +52,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors
 
-- [Your Name](https://github.com/your_username)
+- Basil Eldhose(https://github.com/baz-l)
 
 ## Questions or Issues?
 
-If you have any questions or encounter any issues with the script, feel free to [open an issue](https://github.com/your_username/ycombinator-web-scraper/issues) on GitHub.
+If you have any questions or encounter any issues with the script, feel free to [open an issue](https://github.com/baz-l/ycombinator-web-scraper/issues) on GitHub.
 
 ---
 
