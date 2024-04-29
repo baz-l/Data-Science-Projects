@@ -1,7 +1,3 @@
-Absolutely! Here's a more straightforward README file:
-
----
-
 # Y Combinator Companies Web Scraper
 
 ## What is this?
