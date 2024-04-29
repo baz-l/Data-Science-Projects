@@ -17,6 +17,7 @@ This project is a Python script that scrapes company links from the Y Combinator
 
 4. **Customization**: Feel free to customize the script according to your needs. You can modify it to scrape different websites or extract different types of data.
 5. Once the extraction is complete, you will find the extracted data saved in JSON format in the file data.json.
+6. I have also submitted my report after the completion of the project `Web_scraping_report.pdf`
 
 ## Requirements
 
