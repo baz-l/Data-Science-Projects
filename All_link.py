@@ -14,7 +14,7 @@ select_all=WebDriverWait(driver,20).until(EC.presence_of_element_located((By.XPA
 #Extracting The Xpath of each checkboxes in batches column
 batches=[]
 for i in range(2,41):
-    path="/html/body/div/div[2]/section[2]/div/div[2]/div[1]/div/div[10]/div["+str(i)+"]/label/input"
+    path="/html/body/div/div[2]/section[2]/div/div[2]/div[1]/div/div[9]/div["+str(i)+"]/label/input"
     batches.append(path)
 
 for batch in batches:
